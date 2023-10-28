@@ -9,25 +9,26 @@
 Sono uno sviluppatore appassionato con competenze avanzate in Vue.js, alla ricerca di opportunità per contribuire a progetti dinamici e innovativi nell'ambito dello sviluppo web.
 
 ## Esperienza Lavorativa
-### [Move Solutions s.p.a] - [Lucca, IT]
+### [[Move Solutions](htttps://movesolutions.it)] - [Lucca, IT]
 #### Vue.js Developer and Frontend Lead
-[Data di Inizio] - [Data di Fine]
+[Gennaio 2022] - [presente]
 - Responsabile dei progetti frontend all'interno dell'azienda
-- Collaborazione diretta con il team di progetto e il team backend per la progettazione e l'implementazione di soluzioni.
-- Integrazione di API esterne e gestione dello stato dell'applicazione con Pinia
-- Ottimizzazione delle prestazioni
-- Miglioramento dell'esperienza utente
 
-### [Nome dell'Azienda] - [Città, Stato]
-#### Sviluppatore Frontend Junior
-[Data di Inizio] - [Data di Fine]
-- Collaborazione con il team di sviluppo nello sviluppo di applicazioni web Vue.js.
-- Implementazione di funzionalità frontend interattive e dinamiche.
-- Risoluzione di bug e miglioramento delle prestazioni.
-- Partecipazione agli stand-up giornalieri e alla pianificazione dei progetti.
+### [Intecs Solutions] - [Pisa, IT]
+#### React.js (Electron) developer
+[Aprile 2019] - [Dicembre 2021]
+- Progettazione, sviluppo e testing di applicativi desktop cross-platform per soluzioni automotive embedded utilizzando tecnlogie web : JavaScript, nodejs, React ed Electron.
+- Sviluppo hardware e firmware di board embedded prototipali per la gestione di I/O e protocolli PWM, LIN, RS232 e SCPI. Sviluppo di moduli backend per la gestione di segnali fisici da e verso board embedded. Sviluppo di moduli frontend per log, trace e rappresentazione grafica di messagi da e verso board embedded
+
+### [ST Microelectronics - (Consulente Intecs)] - [Napoli, IT]
+#### Embedded Software Engineer, Autosar 
+[Giugno 2019] - [Dicembre 2020]
+- Progettazione, sviluppo, testing e manutenzione MCAL (Autosar)
+- Attività : ASPICE, analisi di software requirement, debug, testing, analisi statica, coverage
 
 ## Istruzione
-### Laurea in Informatica - [Nome dell'Università] - [Anno di Consegna]
+### Laurea in Ingegneria Elettronica - [Università di Pisa] - [2019]
+- Sviluppo di un driver in linguaggio C per la gestione del Timer RTC (Real Time Clock) integrato in ATMEGA32A e confronto delle prestazioni di RTC general purpose al quarzo e RTC per applicazioni Ultra Low Power basati su ROSC.
 
 ## Competenze Tecniche
 - [Vue.js](https://vuejs.org/)
