@@ -5,20 +5,21 @@
 - **Indirizzo:** Via Giannini 45, Porcari (LU)
 - **Email:** simo.diricco.91@gmail.com
 
-## Obiettivo Professionale
-Sono uno sviluppatore appassionato con competenze avanzate in Vue.js, alla ricerca di opportunità per contribuire a progetti dinamici e innovativi nell'ambito dello sviluppo web.
+## Vue.js frontend developer
 
 ## Esperienza Lavorativa
 ### [[Move Solutions](htttps://movesolutions.it)] - [Lucca, IT]
 #### Vue.js Developer and Frontend Lead
 [Gennaio 2022] - [presente]
 - Responsabile dei progetti frontend all'interno dell'azienda
+- Sviluppo di applicativi web per la gestione di sensori iot utilizzando Vue. 
+- Sviluppo di applicativi desktop per la gestione di sensori iot utilizzando tecnlogie web: Vue, Electron.
 
 ### [Intecs Solutions] - [Pisa, IT]
 #### React.js (Electron) developer
 [Aprile 2019] - [Dicembre 2021]
-- Progettazione, sviluppo e testing di applicativi desktop cross-platform per soluzioni automotive embedded utilizzando tecnlogie web : JavaScript, nodejs, React ed Electron.
-- Sviluppo hardware e firmware di board embedded prototipali per la gestione di I/O e protocolli PWM, LIN, RS232 e SCPI. Sviluppo di moduli backend per la gestione di segnali fisici da e verso board embedded. Sviluppo di moduli frontend per log, trace e rappresentazione grafica di messagi da e verso board embedded
+- Sviluppo di applicativi desktop cross-platform per soluzioni automotive embedded utilizzando tecnlogie web : React, Electron.
+- Sviluppo hardware e firmware di board embedded prototipali per la gestione di I/O e protocolli PWM, LIN, RS232 e SCPI.
 
 ### [ST Microelectronics - (Consulente Intecs)] - [Napoli, IT]
 #### Embedded Software Engineer, Autosar 
@@ -28,7 +29,8 @@ Sono uno sviluppatore appassionato con competenze avanzate in Vue.js, alla ricer
 
 ## Istruzione
 ### Laurea in Ingegneria Elettronica - [Università di Pisa] - [2019]
-- Sviluppo di un driver in linguaggio C per la gestione del Timer RTC (Real Time Clock) integrato in ATMEGA32A e confronto delle prestazioni di RTC general purpose al quarzo e RTC per applicazioni Ultra Low Power basati su ROSC.
+- Sviluppo di un driver in linguaggio C per la gestione del Timer RTC (Real Time Clock) integrato in ATMEGA32A
+- Confronto delle prestazioni di RTC general purpose al quarzo e RTC per applicazioni Ultra Low Power basati su ROSC.
 
 ## Competenze Tecniche
 - [Vue.js](https://vuejs.org/)
@@ -43,17 +45,7 @@ Sono uno sviluppatore appassionato con competenze avanzate in Vue.js, alla ricer
 - [Electron.js](https://www.electronjs.org/)
 - [Git](https://git-scm.com/)
 
-## Progetti Personali
-- [Nome del Progetto] - [Breve Descrizione]
-  - Utilizzato Vue.js per sviluppare un'applicazione web che [descrizione delle funzionalità principali].
-- [Nome del Progetto] - [Breve Descrizione]
-  - Creazione di un'app Vue.js che [descrizione delle funzionalità principali].
-
 ## Lingue
 - Italiano (Madrelingua)
 - Inglese (Fluente)
 
-## Hobby e Interessi
-- [Elenco dei tuoi hobby e interessi]
-
-Questo è solo un esempio di come potresti strutturare il tuo curriculum in Markdown. Assicurati di personalizzare il contenuto con le tue informazioni specifiche, esperienze e competenze. Inoltre, puoi aggiungere ulteriori sezioni o dettagli in base alle tue esigenze e alle posizioni a cui stai applicando.
