@@ -12,14 +12,14 @@
 #### Vue.js Developer and Frontend Lead
 [Gennaio 2022] - [presente]
 - Responsabile dei progetti frontend all'interno dell'azienda
-- Sviluppo di applicativi web per la gestione di sensori iot utilizzando Vue. 
-- Sviluppo di applicativi desktop per la gestione di sensori iot utilizzando tecnlogie web: Vue, Electron.
+- Sviluppo di Web app per la gestione di sensori iot utilizzando Vue. 
+- Sviluppo di app desktop per la gestione di sensori iot utilizzando tecnlogie web: Vue, Electron.
 
 ### [Intecs Solutions] - [Pisa, IT]
 #### React.js (Electron) developer
 [Aprile 2019] - [Dicembre 2021]
-- Sviluppo di applicativi desktop cross-platform per soluzioni automotive embedded utilizzando tecnlogie web : React, Electron.
-- Sviluppo hardware e firmware di board embedded prototipali per la gestione di I/O e protocolli PWM, LIN, RS232 e SCPI.
+- Sviluppo di app desktop per il settore automotive utilizzando tecnlogie web : React, Electron.
+- Sviluppo hardware e firmware di board embedded prototipali per la gestione di I/O digitali e periferiche come PWM, LIN, RS232 e SCPI.
 
 ### [ST Microelectronics - (Consulente Intecs)] - [Napoli, IT]
 #### Embedded Software Engineer, Autosar 
